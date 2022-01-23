@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Matrix](https://github.com/Abhishek-1705/Team_Matrix-HackX)
 
-- 🌱 I’m currently learning **Djnago,java,cpp.**
+- 🌱 I’m currently learning **Django,java,cpp.**
 
 - 👨‍💻 All of my projects are available at [https://abhishek-1705.github.io/](https://abhishek-1705.github.io/)
 
-- 💬 Ask me about **I'am Abhishek, a Sophmore pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.**
+- 💬 Ask me about **I'am Abhishek, a Sophmore pursuing Bachelors in Electrical and Electronics Engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.**
 
 - 📫 How to reach me **abhishekmalviya17@outlook.com**
 
