@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhishek Malviya</h1>
-<h3 align="center">A passionate frontend developer from India and I have keen interst in cloud computing.</h3>
+<h3 align="center">A passionate developer from India and had keen interst in cloud computing.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-1705&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-1705" /> </p>
 
 - 🔭 I’m currently working on [Matrix](https://github.com/Abhishek-1705/Team_Matrix-HackX)
 
-- 🌱 I’m currently learning **Django,java,cpp.**
+- 🌱 I’m currently learning **Djnago,java,cpp.**
+
+- 👯 I’m looking to collaborate on **Cloud computing project**
+
+- 🤝 I’m looking for help with **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://abhishek-1705.github.io/](https://abhishek-1705.github.io/)
 
-- 💬 Ask me about **I'am Abhishek, a Sophmore pursuing Bachelors in Electrical and Electronics Engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.**
+- 💬 Ask me about **I'am Abhishek, a Sophmore pursuing Bachelors in Electrical and Electronics Engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I am always open to learn new technologies.**
 
 - 📫 How to reach me **abhishekmalviya17@outlook.com**
 
@@ -19,6 +25,8 @@
 <a href="https://fb.com/https://www.facebook.com/people/abhishek-malviya/100066708781201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/abhishek-malviya/100066708781201/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abhishek._.malviya/?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishek._.malviya/?utm_medium=copy_link" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/abhi_17_shek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhi_17_shek" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/am9893073458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/am9893073458" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/abhishek_05_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_05_17/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +34,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Abhishek1705"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abhishek1705" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-1705&show_icons=true&locale=en&layout=compact" alt="abhishek-1705" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-1705&show_icons=true&locale=en" alt="abhishek-1705" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-1705&" alt="abhishek-1705" /></p>
 
