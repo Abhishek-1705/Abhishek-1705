@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Matrix](https://github.com/Abhishek-1705/Team_Matrix-HackX)
 
-- 🌱 I’m currently learning **Djnago,java,cpp.**
+- 🌱 I’m currently learning **Django,java,cpp.**
 
 - 👯 I’m looking to collaborate on **Cloud computing project**
 
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help with **Blockchain Technologies**
 
 - 👨‍💻 All of my projects are available at [https://abhishek-1705.github.io/](https://abhishek-1705.github.io/)
 
