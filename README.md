@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhishekmalviya17@outlook.com**
 
-- ⚡ Fun fact **I do nothing but I am devloper**
+- ⚡ Fun fact **I do nothing but I am developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
