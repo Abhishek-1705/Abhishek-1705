@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhishek Malviya</h1>
+<h1 align="center">Hey there👋, I'm Abhishek Malviya</h1>
 <h3 align="center">A passionate developer from India and had keen interst in cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-1705&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-1705" /> </p>
 
 - 🔭 I’m currently working on [Matrix](https://github.com/Abhishek-1705/Team_Matrix-HackX)
 
-- 🌱 I’m currently learning **Django,java,cpp.**
+- 🌱 I’m currently learning **Django,Golang,Ruby.**
 
 - 👯 I’m looking to collaborate on **Cloud computing project**
 
