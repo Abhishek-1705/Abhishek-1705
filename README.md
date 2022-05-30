@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud computing project**
 
-- 🤝 I’m looking for help with **Blockchain Technologies**
-
 - 👨‍💻 All of my projects are available at [https://abhishek-1705.github.io/](https://abhishek-1705.github.io/)
 
 - 💬 Ask me about **I'am Abhishek, a Sophmore pursuing Bachelors in Electrical and Electronics Engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I am always open to learn new technologies.**
