@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-1705&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-1705" /> </p>
 
-- 🔭 I’m currently working on [Matrix](https://github.com/Abhishek-1705/Team_Matrix-HackX)
+- 🔭 I’m currently working as SDE-intern @TDPVISTA
 
-- 🌱 I’m currently learning **Django,Golang,Ruby.**
+- 🌱 I’m currently learning **Django,Golang,C++
 
 - 👯 I’m looking to collaborate on **Cloud computing project**
 
