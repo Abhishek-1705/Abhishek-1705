@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-1705&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-1705" /> </p>
 
-- 🔭 I’m currently working as SDE-intern @TDPVISTA
+- 🔭 I’m currently working as SDE @TDPVISTA
 
 - 🌱 I’m currently learning **Django,Golang,C++
 
